@@ -1,0 +1,13 @@
+.menu {
+    text-align: center;
+}
+#inc {
+    background-color: orangered;
+    width: 100px;
+    height: 30px;
+}
+#sav {
+    background-color: green;
+    width: 90px;
+    height: 30px;
+}
